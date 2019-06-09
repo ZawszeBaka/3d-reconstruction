@@ -54,7 +54,7 @@ Projected points
 ## References
 * [Eight point algorithm](http://ece631web.groups.et.byu.net/Lectures/ECEn631%2013%20-%208%20Point%20Algorithm.pdf)
 * [Multiple View Geometry in Computer Vision (Hartley & Zisserman)](http://www.robots.ox.ac.uk/~vgg/hzbook/)
-
+* https://github.com/alyssaq/3Dreconstruction
 ## License
 [MIT](https://alyssaq.github.io/mit-license)
 # 3d-reconstruction
